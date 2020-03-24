@@ -1,0 +1,46 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#cabecalho{
+    float: left;
+    margin-left: 50px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #C0C0C0;
+    height: 58px;
+    position: absolute;
+    width: 100%;
+}
+
+li{
+    margin-left: auto;
+	margin-right: auto;
+	float: left;
+}
+
+li a {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    height: 28px;
+    padding: 20px 10px 10px 10px;
+    -webkit-text-fill-color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+li a:hover{
+    background-color: white;
+}
+
+#logo{
+    display: block;
+    float: left;
+    height: 48px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}

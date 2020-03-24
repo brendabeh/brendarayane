@@ -1,0 +1,51 @@
+body{
+  font-family: 'Roboto', sans-serif;
+}
+/* grid 960 px*/
+.linha{
+  width: 7200px;
+  margin: 0 auto;
+  overflow: auto;
+  padding: 5px 0;
+
+}
+.coluna{
+  padding: 0 10px;
+  float: left;
+}
+.col1{
+  width: 60px;
+}
+.col2{
+  width: 140px;
+}
+.col3{
+  width: 120px;
+}
+.col4{
+  width: 170px;
+}
+.col5{
+  width: 230px;
+}
+.col6{
+  width: 300px;
+}
+.col7{
+  width: 370px;
+}
+.col8{
+  width: 440px;
+}
+.col9{
+  width: 510px;
+}
+.col10{
+  width: 580px;
+}
+.col11{
+  width: 650px;
+}
+.col12{
+  width: 720px;
+}
